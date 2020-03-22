@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Multiplayer Sayı Tahmin Oyunu\Kod S Multiplayer Sayı Tahmin Oyunu\bin\Debug\Kod S Multiplayer Sayı Tahmin Oyunu.exe
+C:\Users\mrt_b\Desktop\Kod S Multiplayer Sayı Tahmin Oyunu\Kod S Multiplayer Sayı Tahmin Oyunu\bin\Debug\Kod S Multiplayer Sayı Tahmin Oyunu.pdb
+C:\Users\mrt_b\Desktop\Kod S Multiplayer Sayı Tahmin Oyunu\Kod S Multiplayer Sayı Tahmin Oyunu\obj\x86\Debug\Kod S Multiplayer Sayı Tahmin Oyunu.exe
+C:\Users\mrt_b\Desktop\Kod S Multiplayer Sayı Tahmin Oyunu\Kod S Multiplayer Sayı Tahmin Oyunu\obj\x86\Debug\Kod S Multiplayer Sayı Tahmin Oyunu.pdb
